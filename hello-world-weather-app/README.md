@@ -12,6 +12,4 @@ mcp-env\Scripts\activate
 
 pip install -r requirements.txt
 
-choco install nodejs
-$env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
-node --version
+
