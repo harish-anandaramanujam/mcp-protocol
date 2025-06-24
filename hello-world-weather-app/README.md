@@ -13,3 +13,4 @@ mcp-env\Scripts\activate
 pip install -r requirements.txt
 
 
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/1ff6f765-b61a-4523-aef8-f6a0f574ae9b" />
