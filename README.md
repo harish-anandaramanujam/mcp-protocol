@@ -3,9 +3,7 @@
 This project uses the OpenWeatherMap API to fetch weather data.
 
 ## OpenWeatherMap API
-
-- **API Documentation:** [One Call API 3.0](https://openweathermap.org/api/one-call-3)
-- **API Keys:** Create or find your API keys after subscribing at [OpenWeatherMap API Keys](https://home.openweathermap.org/api_keys)
+For detailed instructions on obtaining and configuring your OpenWeatherMap API key, please see the [OpenWeatherMap API Setup Guide](setup/openweathermap-api-setup.md).
 
 ## Setup
 
